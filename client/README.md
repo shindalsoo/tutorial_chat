@@ -11,21 +11,21 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+변경하면 페이지가 다시 로드됩니다.\
+콘솔에 린트 오류가 표시될 수도 있습니다.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
+대화형 감시 모드에서 테스트 실행기를 시작합니다.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+'build' 폴더에 프로덕션용 앱을 빌드합니다.\
+프로덕션 모드에서 React를 올바르게 번들링하고 최상의 성능을 위해 빌드를 최적화합니다.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+빌드가 축소되고 파일 이름에 해시가 포함됩니다.\
+앱을 배포할 준비가 되었습니다!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
@@ -33,11 +33,11 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+빌드 도구 및 구성 선택이 만족스럽지 않으면 언제든지 '꺼내기'를 수행할 수 있습니다. 이 명령은 프로젝트에서 단일 빌드 종속성을 제거합니다.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+대신, 모든 구성 파일과 전이적 종속성(webpack, Babel, ESLint 등)을 프로젝트에 바로 복사하므로 이를 완전히 제어할 수 있습니다. 'eject'를 제외한 모든 명령은 계속 작동하지만 복사된 스크립트를 가리키므로 조정할 수 있습니다. 이 시점에서 당신은 스스로입니다.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+`eject`를 사용할 필요는 없습니다. 엄선된 기능 세트는 소규모 및 중간 배포에 적합하므로 이 기능을 사용해야 한다는 의무감을 느껴서는 안 됩니다. 그러나 우리는 이 도구를 사용할 준비가 되었을 때 사용자 정의할 수 없다면 유용하지 않다는 것을 알고 있습니다.
 
 ## Learn More
 
