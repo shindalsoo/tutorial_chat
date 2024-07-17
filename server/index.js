@@ -1,6 +1,6 @@
 const express = require('express')
 const cors = require('cors')
-require('dotenv').config()
+require('dotenv').config({ path: '.env.local' })
 const connectDB = require('./config/connectDB')
 const router = require('./routes/index')
 const cookiesParser = require('cookie-parser')
