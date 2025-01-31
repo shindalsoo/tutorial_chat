@@ -19,5 +19,6 @@ REACT_APP_CLOUDINARY_CLOUD_NAME = <Cloudinary cloud name>
 REACT_APP_BACKEND_URL = <Backend URL>
 
 2:14:12 > cloudinary 가입
+새로운 내용을 입력해봅니다.
 
 
