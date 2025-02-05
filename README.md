@@ -21,3 +21,8 @@ REACT_APP_BACKEND_URL = <Backend URL>
 2:14:12 > cloudinary 가입
 
 
+```mermaid
+graph LR
+A(입력)-->B[연산]
+B-->C(출력)
+```
